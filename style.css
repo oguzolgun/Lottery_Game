@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient(to bottom right, #c58a1d, #B7CDD4);;
+}
+
+.container{
+   
+    margin: 100px  ;
+    resize: both;
+}
+.play{
+    text-align: center;
+}
+
+#number{
+    height: 2em;
+    border-radius: 10px;
+    font-size: 1.2em;
+    box-shadow: 50px;
+   
+}
+#btn{
+    height:45px;
+    border-radius: 5px;;
+
+}
+
+#sonuc{
+    border: 2px solid rgb(8, 8, 8);
+    margin-top: 10px ;
+    
+
+}
